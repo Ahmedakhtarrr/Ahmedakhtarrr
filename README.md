@@ -1,3 +1,5 @@
+<img src="./ocean-waves.gif" alt="Animated blue and teal ocean waves" width="100%" />
+
 # Ahmed Akhtar
 
 **Student · AI Engineering · AI Enthusiast**
@@ -16,11 +18,3 @@ My commerce background gives me a business perspective as I explore technology a
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/)
-
----
-
-## تعارف
-
-میں احمد اختر ہوں، ایک ۱۹ سالہ طالب علم۔ میں نے کامرس میں ہائی اسکول ڈپلومہ مکمل کیا ہے اور مجھے اے آئی انجینئرنگ میں دلچسپی ہے۔ میں عملی پروجیکٹس کے ذریعے اپنی مہارت اور علم کو مزید بہتر بنا رہا ہوں۔
-
-میری دلچسپی یہ سمجھنے میں ہے کہ مصنوعی ذہانت کو روزمرہ کے مسائل حل کرنے کے لیے کیسے استعمال کیا جا سکتا ہے۔
