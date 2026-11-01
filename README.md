@@ -22,11 +22,16 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 <br clear="all" />
 
-### ✨ Things I enjoy exploring
+### Interests
 
-🤖 **AI & ideas** — discovering what intelligent tools can do  
-🛠️ **Building projects** — turning curiosity into something real  
-📈 **Business & technology** — exploring where the two connect
+> **01 &nbsp; AI engineering**  
+> Exploring practical applications of AI.
+>
+> **02 &nbsp; Building projects**  
+> Learning through hands-on experiments.
+>
+> **03 &nbsp; Business & technology**  
+> Connecting a commerce background with technology.
 
 ### Connect with me
 
