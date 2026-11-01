@@ -12,7 +12,7 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 ### A little about me
 
-<img align="right" src="./cozy-banner.gif" alt="A cozy animated room with cats" width="42%" />
+<img align="right" src="./215911.gif" alt="An animated rainy night workspace" width="42%" />
 
 - 🔹 Exploring **AI engineering** and practical applications
 - 🔹 Learning by building and experimenting with projects
