@@ -1,4 +1,4 @@
-<img src="./smooth-particles.gif" alt="Glowing navy particles" width="100%" />
+<img src="./ascii-cat.gif" alt="ASCII cat animation" width="100%" />
 
 <div align="center">
 
