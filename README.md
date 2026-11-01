@@ -1,42 +1,29 @@
-<img src="./ascii-cat.gif" alt="ASCII cat animation" width="100%" />
-
 <div align="center">
 
-# Ahmed Akhtar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07182d,100:174d7a&height=190&section=header&text=Ahmed%20Akhtar&fontSize=48&fontColor=eaf4ff&fontAlignY=38&desc=Student%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17" alt="Ahmed Akhtar — student and AI enthusiast" width="100%" />
 
-**STUDENT &nbsp; / &nbsp; AI ENGINEERING &nbsp; / &nbsp; AI ENTHUSIAST**
-
-<img src="https://img.shields.io/badge/FOCUS-AI%20ENGINEERING-123865?style=for-the-badge&labelColor=07182d" alt="Focus: AI engineering" />
-<img src="https://img.shields.io/badge/BACKGROUND-COMMERCE-1b4b75?style=for-the-badge&labelColor=07182d" alt="Background: commerce" />
-<img src="https://img.shields.io/badge/MINDSET-KEEP%20LEARNING-245c88?style=for-the-badge&labelColor=07182d" alt="Mindset: keep learning" />
+<img src="https://img.shields.io/badge/AI-Engineering-16456f?style=for-the-badge&logo=github&logoColor=white&labelColor=07182d" alt="AI engineering" />
+<img src="https://img.shields.io/badge/Background-Commerce-16456f?style=for-the-badge&labelColor=07182d" alt="Commerce background" />
+<a href="https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-16456f?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07182d" alt="LinkedIn" /></a>
 
 </div>
 
----
+### &lt; about_me /&gt;
 
-### &lt; whoami /&gt;
+I'm Ahmed, a 19-year-old student and AI enthusiast exploring AI engineering through hands-on projects. I hold a high school diploma in commerce and enjoy connecting business ideas with technology.
 
-```text
-  ahmed@github  ~  $ whoami
+### &lt; currently_exploring /&gt;
 
-  Name        Ahmed Akhtar
-  Role        Student  ·  AI enthusiast
-  Focus       AI engineering and hands-on projects
-  Education   High School Diploma in Commerce
-  Languages   English  /  Urdu
-```
+- 🔹 **AI engineering** and practical experimentation
+- 🔹 **Building projects** and learning by doing
+- 🔹 **Business and technology** through a commerce perspective
 
-I'm a 19-year-old student exploring AI engineering through hands-on projects. My background in commerce gives me a business perspective as I learn, experiment, and build.
+<div align="center">
 
-### &lt; current_focus /&gt;
+<img src="./ascii-cat.gif" alt="ASCII art cat animation" width="80%" />
 
-🔹 **AI engineering** — developing my knowledge through practical work  
-🔹 **Projects** — exploring ideas and turning them into working projects  
-🔹 **Business + technology** — connecting my commerce background with AI
+<sub>Curious mind. Practical projects. Always learning.</sub>
 
-### &lt; connect /&gt;
+</div>
 
-<a href="https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-215a8e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=07182d" alt="Connect with Ahmed on LinkedIn" /></a>
-
----
-<div align="center"><sub>Curious mind. Practical projects. Always learning.</sub></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07182d,100:174d7a&height=90&section=footer" alt="" width="100%" />
