@@ -1,4 +1,4 @@
-<div align="center"><img src="./cozy-banner.gif" alt="A cozy animated room with cats" width="100%" />
+<div align="center">
 
 # Hi, I'm Ahmed 👋
 
@@ -12,24 +12,28 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 ### A little about me
 
+<img align="right" src="./cozy-banner.gif" alt="A cozy animated room with cats" width="42%" />
+
 - 🔹 Exploring **AI engineering** and practical applications
 - 🔹 Learning by building and experimenting with projects
 - 🔹 Bringing a **commerce background** to my interest in technology
 
+<br clear="all" />
+
+### ✨ Things I enjoy exploring
+
+🤖 **AI & ideas** — discovering what intelligent tools can do  
+🛠️ **Building projects** — turning curiosity into something real  
+📈 **Business & technology** — exploring where the two connect
+
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/"><img src="./linkedin-clear.gif" alt="Connect with Ahmed on LinkedIn" width="55" /></a>
-
-### Interests
-
-<img src="https://img.shields.io/badge/AI-Engineering-16456f?style=for-the-badge&labelColor=07182d" alt="AI engineering" /> <img src="https://img.shields.io/badge/Business-Commerce-16456f?style=for-the-badge&labelColor=07182d" alt="Commerce" /> <img src="https://img.shields.io/badge/Projects-Learning%20by%20doing-16456f?style=for-the-badge&labelColor=07182d" alt="Projects" />
 
 <div align="center">
 
 <img src="./ascii-cat.gif" alt="ASCII art cat animation" width="65%" />
 
 <sub>Curious mind. Practical projects. Always learning.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07182d,100:174d7a&height=90&section=footer" alt="" width="100%" />
 
 </div>
