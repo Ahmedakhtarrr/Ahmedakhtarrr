@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./cozy-banner.gif" alt="A cozy animated room with cats" width="100%" />
+
 # Hi, I'm Ahmed 👋
 
 ### Student · AI enthusiast · Curious builder
@@ -33,7 +35,5 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 <div align="center">
 
 <img src="./ascii-cat.gif" alt="ASCII art cat animation" width="65%" />
-
-<sub>Curious mind. Practical projects. Always learning.</sub>
 
 </div>
