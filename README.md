@@ -1,4 +1,4 @@
-<img src="./ocean-waves.gif" alt="Animated blue and teal ocean waves" width="100%" />
+<img src="./animation-particles.gif" alt="Animated floating particles" width="100%" />
 
 # Ahmed Akhtar
 
