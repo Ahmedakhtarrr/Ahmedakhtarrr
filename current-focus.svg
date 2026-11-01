@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="252" viewBox="0 0 640 252" role="img" aria-labelledby="title desc">
+  <title id="title">Interests</title><desc id="desc">AI engineering, building projects, and learning and discovery.</desc>
+  <rect x="1" y="1" width="638" height="250" rx="10" fill="#101e30" stroke="#31536f" stroke-width="2"/>
+  <circle cx="23" cy="21" r="4" fill="#78b8d2"/><circle cx="38" cy="21" r="4" fill="#467e9c"/><circle cx="53" cy="21" r="4" fill="#305875"/>
+  <text x="75" y="26" fill="#b7d1df" font-family="Consolas, monospace" font-size="12" letter-spacing="1.5">CURRENT FOCUS</text>
+  <path d="M0 42H640 M0 111H640 M0 180H640" stroke="#2b465e"/>
+  <g font-family="Arial, sans-serif" fill="#eef6fb" font-size="18" font-weight="700"><text x="30" y="72">AI engineering</text><text x="30" y="141">Building projects</text><text x="30" y="210">Learning + discovery</text></g>
+  <g font-family="Arial, sans-serif" fill="#bed0db" font-size="13"><text x="30" y="94">Exploring practical applications of AI</text><text x="30" y="163">Turning ideas into hands-on experiments</text><text x="30" y="232">Staying curious and learning by doing</text></g>
+  <!-- Codex-inspired terminal mark -->
+  <rect x="558" y="57" width="44" height="40" rx="10" fill="none" stroke="#8abbd0" stroke-width="2"/>
+  <path d="M571 68l6 8-6 8m12 0h9" fill="none" stroke="#8abbd0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- A light bulb on a computer screen -->
+  <g fill="none" stroke="#8abbd0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="555" y="126" width="51" height="32" rx="3"/><path d="M580 158v6m-13 0h26"/><path d="M575 137a5 5 0 1 1 10 0c0 2-2 3-2 5h-6c0-2-2-3-2-5zm3 8h4"/></g>
+  <g fill="none" stroke="#8abbd0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="580" cy="216" r="17"/><path d="M580 205v11l7 5M580 194v3m0 38v3m-22-22h3m38 0h3"/></g>
+</svg>
