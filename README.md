@@ -38,6 +38,6 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 <img src="./ascii-cat.gif" alt="ASCII art cat animation" width="65%" />
 <br />
-<img src="./navy-light-strip.gif" alt="" width="65%" />
+<img src="./navy-light-strip.gif" alt="" width="100%" />
 
 </div>
