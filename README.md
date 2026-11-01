@@ -26,7 +26,7 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 <div align="center">
 
-<img src="./interests-v2.svg" alt="Interests: AI engineering, exploring practical applications of AI; building projects, turning ideas into hands-on experiments; and learning and discovery, staying curious and learning by doing." width="75%" />
+<img src="./current-focus.svg" alt="Current focus: AI engineering, exploring practical applications of AI; building projects, turning ideas into hands-on experiments; and learning and discovery, staying curious and learning by doing." width="75%" />
 
 </div>
 
