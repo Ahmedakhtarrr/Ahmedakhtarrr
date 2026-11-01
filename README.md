@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07182d,100:174d7a&height=190&section=header&text=Ahmed%20Akhtar&fontSize=48&fontColor=eaf4ff&fontAlignY=38&desc=Student%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=17" alt="Ahmed Akhtar — student and AI enthusiast" width="100%" />
+<div align="center"><img src="./cozy-banner.gif" alt="A cozy animated room with cats" width="100%" />
 
 # Hi, I'm Ahmed 👋
 
