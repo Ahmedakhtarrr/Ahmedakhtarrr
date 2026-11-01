@@ -20,7 +20,7 @@ I'm a 19-year-old student exploring AI engineering through hands-on projects. Wi
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/"><img src="./navy-linkedin.gif?v=2" alt="Connect with Ahmed on LinkedIn" width="55" /></a>
+<a href="https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/"><img src="./linkedin-smooth.gif" alt="Connect with Ahmed on LinkedIn" width="55" /></a>
 
 ### Interests
 
