@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ahmed Akhtar
 
-<!--
-**Ahmedakhtarrr/Ahmedakhtarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student · AI Engineering · AI Enthusiast**
 
-Here are some ideas to get you started:
+I'm a 19-year-old student with a **High School Diploma in Commerce**, developing my skills in AI engineering through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+- **Education:** High School Diploma in Commerce
+- **Focus:** AI engineering and practical projects
+- **Interests:** Exploring how artificial intelligence can solve everyday problems
+- **Languages:** English and Urdu
+
+My commerce background gives me a business perspective as I explore technology and build my knowledge of AI.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmed-akhtar-2aa54941b/)
+
+---
+
+## تعارف
+
+میں احمد اختر ہوں، ایک ۱۹ سالہ طالب علم۔ میں نے کامرس میں ہائی اسکول ڈپلومہ مکمل کیا ہے اور مجھے اے آئی انجینئرنگ میں دلچسپی ہے۔ میں عملی پروجیکٹس کے ذریعے اپنی مہارت اور علم کو مزید بہتر بنا رہا ہوں۔
+
+میری دلچسپی یہ سمجھنے میں ہے کہ مصنوعی ذہانت کو روزمرہ کے مسائل حل کرنے کے لیے کیسے استعمال کیا جا سکتا ہے۔
